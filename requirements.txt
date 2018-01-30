@@ -1,0 +1,4 @@
+google-cloud-speech==0.30.0
+line-bot-sdk
+flask
+gunicorn
